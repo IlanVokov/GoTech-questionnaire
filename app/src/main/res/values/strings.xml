@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoTechn\nquestionnaire</string>
+
+    <string name="smallStub" translatable="false">Lorem ipsum</string>
+    <string name="mediumStub" translatable="false">Lorem ipsum dolor</string>
+    <string name="LargeStub" translatable="false">Lorem ipsum dolor sit amet, consectetur</string>
+
+    <string name="your_answer">Your answer</string>
+    <string name="app_about">Show me what you got!</string>
+    <string name="required">Required</string>
+    <string name="submit">Submit</string>
+    <string name="other">Other:</string>
+
+    <string name="no_questions_found">No questions found!</string>
+
+
+</resources>
